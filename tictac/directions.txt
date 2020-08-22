@@ -3,14 +3,14 @@ ____________________________________________
 HOW TO PLAY
 ____________________________________________
 
-To mark board, type a number from 0 to 8.
+To mark board, type a number from 1 to 9.
 Numbering of board is as follows:
 
-0 1 2
-3 4 5
-6 7 8
+1 2 3
+4 5 6
+7 8 9
 
-Ex. Input:  0
+Ex. Input:  1
 Ex. Output:
 
 X _ _
