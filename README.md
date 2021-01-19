@@ -1,5 +1,5 @@
-# TicTacToe
-A single player Tic Tac Toe game written in C++ with Microsoft Visual Studio.
+# Tic Tac Toe
+A single player Tic Tac Toe game command-line program written in C++ with Microsoft Visual Studio
 ### What I learned
 - created an interactive game menu which catches invalid inputs
 - developed an algorithm for picking next piece based on current board layout
